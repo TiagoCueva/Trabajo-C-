@@ -17,3 +17,9 @@ Console.Write("Registrar el tercer peso:");
 notaPonderada1 = nota1 * (peso1 / 100);
 notaPonderada2 = nota2 * (peso2 / 100);
 notaPonderada3 = nota3 * (peso3 / 100);
+
+promedioFinal = (notaPonderada1 + notaPonderada2 + notaPonderada3)/3;
+
+Console.WriteLine(¨\nEl promedio ponderado final es:" + promedioFinal);
+
+
