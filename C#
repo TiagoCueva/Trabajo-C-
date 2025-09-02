@@ -6,12 +6,15 @@ double promedioFinal
 Console.Write("Registrar primera nota:");
 nota1 = double.Parse(Console.ReadLine());
 Console.Write("Registrar el primer peso: ");
+peso1 = double.Parse(Console.ReadLine());
 Console.Write("Registrar segunda nota: ");
 nota2 = double.Parse(Console.ReadLine());
 Console.Write("Registrar el segundo peso: ");
+peso2 = double.Parse(Console.ReadLine());
 Console.Write("Registrar tercera nota: ");
 nota3 = double.Parse(Console.ReadLine());
 Console.Write("Registrar el tercer peso:");
+peso3 = double.Parse(Console.ReadLine());
 
 
 notaPonderada1 = nota1 * (peso1 / 100);
