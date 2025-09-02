@@ -1,6 +1,6 @@
 double nota1, nota2, nota3;
 double peso1, peso2, peso3;
-double notaPondeporada1, notaPondeporada2, notaPondeporada3;
+double notaPonderada1, notaPonderada2, notaPonderada3;
 double promedioFinal
  
 Console.Write("Registrar primera nota:");
