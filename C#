@@ -3,3 +3,12 @@ double peso1, peso2, peso3;
 double notaPondeporada1, notaPondeporada2, notaPondeporada3;
 double promedioFinal
  
+Console.Write("Registrar primera nota:");
+nota1 = double.Parse(Console.ReadLine());
+Console.Write("Registrar el primer peso: ");
+Console.Write("Registrar segunda nota: ");
+nota2 = double.Parse(Console.ReadLine());
+Console.Write("Registrar el segundo peso: ");
+Console.Write("Registrar tercera nota: ");
+nota3 = double.Parse(Console.ReadLine());
+Console.Write("Registrar el tercer peso:");
